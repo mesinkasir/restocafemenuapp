@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# RESTAURANT CAFE DIGITAL MENU
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/restocafemenuapp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![digital menu restaurant cafe web app](digitalmenu.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Make your restaurant cafe simple with digital menu.
 
-### Markdown
+Demo test drive [https://axcora.my.id/webthemes/restomenus/free/](https://axcora.my.id/webthemes/restomenus/free/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Documentation [https://www.hockeycomputindo.com/2022/02/source-code-digital-menu-resto-cafe.html](https://www.hockeycomputindo.com/2022/02/source-code-digital-menu-resto-cafe.html)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+--------------------------------------------------
 
-- Bulleted
-- List
+![digital menu restaurant cafe web app](banner/resto3.png)
 
-1. Numbered
-2. List
+Mobile display digital menu
 
-**Bold** and _Italic_ and `Code` text
+![digital menu restaurant cafe web app](banner/resto2.png)
 
-[Link](url) and ![Image](src)
-```
+Coffee categories menu
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![digital menu restaurant cafe web app](banner/resto1.png)
 
-### Jekyll Themes
+Food categories menu
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/restocafemenuapp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+![digital menu restaurant cafe web app](banner/resto1.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Drink categories menu
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+### Buy me a coffee ☕️ ❤️  ✌🏻 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+
+
