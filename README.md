@@ -6,7 +6,7 @@ Make your restaurant cafe simple with digital menu.
 
 Demo test drive [https://axcora.my.id/webthemes/restomenus/free/](https://axcora.my.id/webthemes/restomenus/free/)
 
-Documentation soon on [https://www.hockeycomputindo.com/2022/02/source-code-digital-menu-resto-cafe.html](https://www.hockeycomputindo.com/2022/02/source-code-digital-menu-resto-cafe.html)
+Documentation [https://www.hockeycomputindo.com/2022/02/source-code-digital-menu-resto-cafe.html](https://www.hockeycomputindo.com/2022/02/source-code-digital-menu-resto-cafe.html)
 
 
 --------------------------------------------------
