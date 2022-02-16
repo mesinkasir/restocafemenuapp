@@ -1,109 +1,109 @@
 {
-    "menu": [
-        {
-            "kategori": "coffee",
-            "nama": "Kopi ireng",
-            "deskripsi": "Kopi untuk pejantan tangguh.",
-            "harga": 45000,
-            "gambar": "kopiireng.jpg"
-        },
-        {
-            "kategori": "coffee",
-            "nama": "Capucino",
-            "deskripsi": "Capucino dengan aroma nikmat.",
-            "harga": 55000,
-            "gambar": "capucino.jpg"
-        },
-        {
-            "kategori": "coffee",
-            "nama": "Coconut Late",
-            "deskripsi": "Coconut late kopi paling mbois",
-            "harga": 46500,
-            "gambar": "coconutlate.jpg"
-        },
-        {
-            "kategori": "coffee",
-            "nama": "Espreso",
-            "deskripsi": "American Espresso maknyus ireng e.",
-            "harga": 49500,
-            "gambar": "espreso.jpg"
-        },
-        {
-            "kategori": "coffee",
-            "nama": "Mocca Cinho",
-            "deskripsi": "Mocacinho dan juninho enak.",
-            "harga": 43000,
-            "gambar": "mocacino.jpg"
-        },
-        {
-            "kategori": "makanan",
-            "nama": "Nasi Campur",
-            "deskripsi": "Nasi campur super lezat sekali.",
-            "harga": 45000,
-            "gambar": "nasicampur.jpg"
-        },
-        {
-            "kategori": "makanan",
-            "nama": "Nasi Daging",
-            "deskripsi": "Nasi daging enak temenan ini bos kuh.",
-            "harga": 55000,
-            "gambar": "nasidaging.jpg"
-        },
-        {
-            "kategori": "makanan",
-            "nama": "Nasi Vegetarian",
-            "deskripsi": "nasi vegetarian untuk kesehatan mu.",
-            "harga": 30000,
-            "gambar": "nasivege.jpg"
-        },
-        {
-            "kategori": "makanan",
-            "nama": "Nasi Merah",
-            "deskripsi": "Nasi meah sangat cocok untuk kesehatan",
-            "harga": 48000,
-            "gambar": "nasimerah.jpg"
-        },
-        {
-            "kategori": "makanan",
-            "nama": "Nasi Goreng",
-            "deskripsi": "Nasi goreng super lezat dan nikmat dengan penuh gizi.",
-            "harga": 40000,
-            "gambar": "nasigoreng.jpg"
-        },
-        {
-            "kategori": "minuman",
-            "nama": "Es Mangga",
-            "deskripsi": "es mangga super seger dan buger",
-            "harga": 24000,
-            "gambar": "esmangga.jpg"
-        },
-        {
-            "kategori": "minuman",
-            "nama": "Es Semangka",
-            "deskripsi": "Es semangka super suegeerr poll",
-            "harga": 24000,
-            "gambar": "semangka.jpg"
-        },
-        {
-            "kategori": "minuman",
-            "nama": "Es Buah",
-            "deskripsi": "Es buah aneka rasa nikmat kali",
-            "harga": 24000,
-            "gambar": "esbuah.jpg"
-        },
-        {
-            "kategori": "minuman",
-            "nama": "Lemon Tea",
-            "deskripsi": "Es super seger lemon tea enak tenan",
-            "harga": 24000,
-            "gambar": "lemontea.jpg"
-        },
-        {
-            "kategori": "minuman",
-            "nama": "Es Metimun",
-            "deskripsi": "Es seger perpaduan blewah dan metimun ",
-            "harga": 24000,
-            "gambar": "blewahtimun.jpg"
-        }
-    ]
+  "menu": [
+    {
+      "kategori": "coffee",
+      "nama": "Kopi ireng",
+      "deskripsi": "Kopi untuk pejantan tangguh.",
+      "harga": 45000,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/kopiireng.jpg"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Capucino",
+      "deskripsi": "Capucino dengan aroma nikmat.",
+      "harga": 55000,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/capucino.jpg"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Coconut Late",
+      "deskripsi": "Coconut late kopi paling mbois",
+      "harga": 46500,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/coconutlate.jpg"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Espreso",
+      "deskripsi": "American Espresso maknyus ireng e.",
+      "harga": 49500,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/espreso.jpg"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Mocca Cinho",
+      "deskripsi": "Mocacinho dan juninho enak.",
+      "harga": 43000,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/mocacino.jpg"
+    },
+    {
+      "kategori": "makanan",
+      "nama": "Nasi Campur",
+      "deskripsi": "Nasi campur super lezat sekali.",
+      "harga": 45000,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/nasicampur.jpg"
+    },
+    {
+      "kategori": "makanan",
+      "nama": "Nasi Daging",
+      "deskripsi": "Nasi daging enak temenan ini bos kuh.",
+      "harga": 55000,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/nasidaging.jpg"
+    },
+    {
+      "kategori": "makanan",
+      "nama": "Nasi Vegetarian",
+      "deskripsi": "nasi vegetarian untuk kesehatan mu.",
+      "harga": 30000,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/nasivege.jpg"
+    },
+    {
+      "kategori": "makanan",
+      "nama": "Nasi Merah",
+      "deskripsi": "Nasi meah sangat cocok untuk kesehatan",
+      "harga": 48000,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/nasimerah.jpg"
+    },
+    {
+      "kategori": "makanan",
+      "nama": "Nasi Goreng",
+      "deskripsi": "Nasi goreng super lezat dan nikmat dengan penuh gizi.",
+      "harga": 40000,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/nasigoreng.jpg"
+    },
+    {
+      "kategori": "minuman",
+      "nama": "Es Mangga",
+      "deskripsi": "es mangga super seger dan buger",
+      "harga": 24000,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/esmangga.jpg"
+    },
+    {
+      "kategori": "minuman",
+      "nama": "Es Semangka",
+      "deskripsi": "Es semangka super suegeerr poll",
+      "harga": 24000,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/semangka.jpg"
+    },
+    {
+      "kategori": "minuman",
+      "nama": "Es Buah",
+      "deskripsi": "Es buah aneka rasa nikmat kali",
+      "harga": 24000,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/esbuah.jpg"
+    },
+    {
+      "kategori": "minuman",
+      "nama": "Lemon Tea",
+      "deskripsi": "Es super seger lemon tea enak tenan",
+      "harga": 24000,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/lemontea.jpg"
+    },
+    {
+      "kategori": "minuman",
+      "nama": "Es Metimun",
+      "deskripsi": "Es seger perpaduan blewah dan metimun ",
+      "harga": 24000,
+      "gambar": "https://axcora.my.id/webthemes/restomenus/free/menu/img/blewahtimun.jpg"
+    }
+  ]
 }
